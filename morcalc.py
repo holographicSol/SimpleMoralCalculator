@@ -27,6 +27,7 @@ getting_away_with_something = False
 # test: deadly sin true/false and legal_crime true false. if either are true then crime has been committed.
 if clean_record is True or clean_record is False:
     getting_away_with_something = True
+
 if getting_away_with_something:
     if deadly_sin is True or legal_crime is True:
         crime_committed = True
