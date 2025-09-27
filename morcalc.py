@@ -53,4 +53,4 @@ if legal_crime is True and deadly_sin is True:
 if crime_committed is False:
     print('Crime Committed: ' + str(crime_committed) + '. You appear to have not commited any legal crime nor any'
                                                        ' deadly sin. Perhaps you cannot be trusted here to tell the'
-                                                       ' truth.')
+                                                       ' truth. What legal crime and or deadly sin are you hiding?')
