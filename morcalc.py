@@ -4,10 +4,10 @@
 # acting on deadly can permanently devastate someone's or some peoples lives but may not be a legal crime even if
 # that crime does in fact devastate someone's or multiple peoples lives (permanently or not).
 # this value is truly variable.
-deadly_sin = True
+deadly_sin = False
 # legal is a crime.
 # this value is truly variable.
-legal_crime = True
+legal_crime = False
 
 """ computer defined """
 # crime commited is determined by weather or not someone acted out of deadly sin and or commited a legal crime.
@@ -53,4 +53,5 @@ if legal_crime is True and deadly_sin is True:
 if crime_committed is False:
     print('Crime Committed: ' + str(crime_committed) + '. You appear to have not commited any legal crime nor any'
                                                        ' deadly sin. Perhaps you cannot be trusted here to tell the'
-                                                       ' truth. What legal crime and or deadly sin are you hiding?')
+                                                       ' truth. What legal crime and or deadly sin are you hiding'
+                                                       ' from us all and as of so far, are getting away with?')
