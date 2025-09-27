@@ -38,7 +38,7 @@ if deadly_sin is True and legal_crime is False:
     print('Deadly Sin: ' + str(deadly_sin) + '. Not a legal crime but is a deadly sin, perhaps at least you will get'
                                              ' away with your dirty deed no matter how many lives you have devastated as'
                                              ' a consequence of your deadly sin as far as the legal system is'
-                                             ' concerned.')
+                                             ' concerned (perhaps there is a problem here with the legal system).')
 
 if legal_crime is True and deadly_sin is False:
     print('Legal Crime: ' + str(deadly_sin) + '. Is a legal crime but is not a deadly sin. Maybe someone commited a'
