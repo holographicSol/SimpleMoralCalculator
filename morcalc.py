@@ -24,13 +24,14 @@ clean_record = False
 # speaks for itself weather a legal crime has been committed and or lives have been devastated by a deadly sin
 # (permanently or not). This value does not need to change because it makes no difference to weather or not a crime has
 # been committed.
-getting_away_with_something = False
+getting_away_with_crime_or_crime_is_known_to_be_committed = False
 
 # test: deadly sin true/false and legal_crime true false. if either are true then crime has been committed.
+# this is always true.
 if clean_record is True or clean_record is False:
-    getting_away_with_something = True
+    getting_away_with_crime_or_crime_is_known_to_be_committed = True
 
-if getting_away_with_something:
+if getting_away_with_crime_or_crime_is_known_to_be_committed:
     if deadly_sin is True or legal_crime is True:
         crime_committed = True
 
