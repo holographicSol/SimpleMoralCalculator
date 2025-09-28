@@ -70,7 +70,7 @@ if crime_committed is False:
                                                        ' from us all and as of so far, are getting away with?'
                                                        ' The worst of the worst, guilty of all or one of the above and'
                                                        ' lied about it.'
-                                                       ' You are crime severity max, are you trying to hurt and or'
-                                                       ' compromise people from your position of deceit?')
+                                                       ' You are crime severity max. Are you trying to further hurt'
+                                                       ' and or compromise people from your position of deceit?')
 
 print('Crime Severity: ' + str(crime_severity) + '/' + str(max_crime_severity) )
