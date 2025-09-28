@@ -1,12 +1,9 @@
 # these are the actual factors that determine weather crime has really been committed
 
 """ user defined """
-# acting on deadly can permanently devastate someone's or some peoples lives but may not be a legal crime even if
-# that crime does in fact devastate someone's or multiple peoples lives (permanently or not).
-# this value is truly variable.
+# a crime that is deadly.
 deadly_sin = False
-# legal is a crime.
-# this value is truly variable.
+# a legal crime.
 legal_crime = False
 
 """ computer defined """
