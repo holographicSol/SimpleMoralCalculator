@@ -3,7 +3,8 @@
 """ user defined """
 # a crime that is deadly. this is categorically tha amoral crime.
 deadly_sin = False
-# a legal crime. the most moral crime of the two, depending on why you committed it.
+# a legal crime. the most moral crime of the two, depending on why you committed it, which of in combination with
+# a deadly sin is of course certainly amoral+.
 legal_crime = False
 # input garbage...
 garbage = False
