@@ -69,6 +69,8 @@ if crime_committed is False:
                                                        ' truth. What legal crime and or deadly sin are you hiding'
                                                        ' from us all and as of so far, are getting away with?'
                                                        ' The worst of the worst, guilty of all or one of the above and'
-                                                       ' lied about it.')
+                                                       ' lied about it.'
+                                                       ' You are crime severity max, are you trying to hurt and or'
+                                                       ' compromise people from this place of deceit?')
 
 print('Crime Severity: ' + str(crime_severity) + '/' + str(max_crime_severity) )
