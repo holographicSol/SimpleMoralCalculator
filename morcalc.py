@@ -26,11 +26,12 @@ clean_record = False
 # been committed.
 getting_away_with_crime_or_crime_is_known_to_be_committed = False
 
-# test: deadly sin true/false and legal_crime true false. if either are true then crime has been committed.
+# Clean record? Makes no difference. What crimes have you committed?
 # this is always true.
 if clean_record is True or clean_record is False:
     getting_away_with_crime_or_crime_is_known_to_be_committed = True
 
+# What will it be? Legal crime? Deadly sin? Both?
 if getting_away_with_crime_or_crime_is_known_to_be_committed:
     if deadly_sin is True or legal_crime is True:
         crime_committed = True
