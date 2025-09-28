@@ -4,7 +4,7 @@ Morcalc is a double meaning, meaning both an abbreviation of moral calc and more
 
 Your crime severity score is equal to your morality rating.
 
-Moral Crime Severity 1 (Minimum moral crime severity) : Legal Crime.
+Moral Crime Severity 1 (Minimum moral crime severity) : Legal Crime. Doing what you gotta do.
 
 Moral Crime Severity 2 : Deadly Sin. Question your intentions.
 
